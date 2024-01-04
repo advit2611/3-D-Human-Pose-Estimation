@@ -22,3 +22,7 @@ modal ground truth future motions by grouping similar past motions
 The metrics calculated can be seen in the table below.
 ![image](https://github.com/advit2611/3-D-Human-Pose-Estimation/assets/47061894/c9e09326-484f-469f-bfcb-d237a8845bf3)
 
+Demo File
+
+https://github.com/advit2611/3-D-Human-Pose-Estimation/assets/47061894/20f96384-4ffe-4b78-ba97-cea8cc152fdb
+
